@@ -101,5 +101,8 @@ npm run set-message
 
 Source Tutorial by :
 github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+
+My social Media
+twitter : @Waris_Khuzaini
+
+Donate : 0x6212423B7c0988474863B7541e4e0E78300A0870
